@@ -23,5 +23,51 @@
       background: black;
       height: 200px;
       width: 34%;
-      margin: 20px;
+      margin: 17px;
    }
+   h2 {
+     margin-left: 20px;
+     margin-right: 20px;
+   }
+  .div-bottom {
+    background: red;
+    height: 400px;
+    width: 35%;
+    float: left;
+    margin-left: 20px;
+  }
+  .div-bottom1 {
+    background: blue;
+    height: 400px;
+    width: 62%;
+    float: left;
+  }
+  .div-bottom2 {
+    background: blue;
+    height: 200px;
+    width: 55%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .div-bottom3 {
+    background:red;
+    height: 200px;
+    width: 10%;
+    float: left;
+    margin-top: 20px;
+  }
+  .div-bottom4 {
+    background: black;
+    height: 200px;
+    width: 22%;
+    float: left;
+    margin-top: 20px;
+  }
+  .div-bottom5 {
+    background: red;
+    height: 200px;
+    width: 10%;
+    float: left;
+    margin-top: 20px;
+  }
